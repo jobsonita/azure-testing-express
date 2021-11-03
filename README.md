@@ -11,6 +11,9 @@ Project based on [Azure's Node web app tutorial](https://docs.microsoft.com/en-u
 
 > :construction: Ongoing :wrench:
 
+First deployment successful:
+![App deployed to Azure](https://i.imgur.com/jWDZQ4k.png)
+
 ## :bookmark: Content Table
 <!--ts-->
   * [Endpoints](#outbox_tray-endpoints)
