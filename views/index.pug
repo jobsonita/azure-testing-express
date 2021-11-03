@@ -1,5 +1,10 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  h1 Azure Express Sandbox
+  p Welcome to my Azure sandbox
+  hr
+  h2 Apps
+  ul
+    for app in apps
+      li: a(href=app.url) #{app.name}

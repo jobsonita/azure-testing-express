@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  a(href="/") Back to index page
+  h1 Math Expression Evaluator
+  form(id="math-evaluator")
+    input(name="expression", type="text", placeholder="Enter a math expression")
+    button(type="submit") Evaluate
+    p(id="result") Result: 
+  a(href="/") Back to index page
+  script(src="javascripts/mathEvaluator.js")

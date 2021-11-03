@@ -25,16 +25,17 @@ First deployment successful:
 
 ## :outbox_tray: Endpoints
 
-- Index: /
-  - Planned: will list all sub projects/endpoints
-- Users: /users
-  - currently does nothing
+Endpoint | App | Description
+---------|-----|------------
+/ | Index | Lists all sub projects/endpoints
+/math | Math Evaluator | Evaluates math expressions
+:construction: | :construction: | :construction: WIP
 
 ## :books: Technologies
 
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
-- [Pug View Engine](https://pugjs.org/api/getting-started.html)
+- [Pug (view engine)](https://pugjs.org/api/getting-started.html)
 
 ## :calling: Installing and running this project
 
