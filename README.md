@@ -31,6 +31,7 @@ Project based on [Azure's Node web app tutorial](https://docs.microsoft.com/en-u
 
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
+- [Pug View Engine](https://pugjs.org/api/getting-started.html)
 
 ## :calling: Installing and running this project
 
