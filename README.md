@@ -11,13 +11,13 @@ Project based on [Azure's Node web app tutorial](https://docs.microsoft.com/en-u
 
 > :construction: Ongoing :wrench:
 
-<detalils>
+<details>
   <summary>First deployment successful</summary>
   <p align="center">
     <img alt="App deployed to Azure" title="App deployed to Azure" src="https://i.imgur.com/jWDZQ4k.png">
   </p>
 </details>
-<detalils>
+<details>
   <summary>Added the first app</summary>
   <p align="center">
     <img alt="Math evaluator app" title="Math evaluator app" src="https://i.imgur.com/wVlCrV1.gif">
